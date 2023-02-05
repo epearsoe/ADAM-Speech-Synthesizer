@@ -1,0 +1,36 @@
+QTY	PART	DESCRIPTION
+2	IC1	74LS138N
+	IC2
+1	IC3	SPO256-AL2
+1	IC4	74LS244
+1	U1	LM386N
+Capacitors
+8	C1	0.1uF ceramic capacitor
+	C2
+	C3
+	C4
+	C5
+	C6
+	C7
+	C8
+2	C9	22pF ceramic capacitor
+	C10
+2	C11	10uF electrolytic capacitor
+	C12
+1	C13	4.7uF ceramic capacitor
+1	C14	100uF electrolytic capacitor
+Resistors
+1	VR1	10k variable resistor RM065
+1	R1	180ohm
+2	R2	1k
+	R3
+1	R4	3.3k
+Transistor
+1	Q1	BC557 PNP Transistor
+LED
+1	LED1	Red 5MM
+Crystal
+1	Y1	3.12MHz
+Edge Connector
+1	J1/J2	60 pin (30x2) female card edge connector
+
